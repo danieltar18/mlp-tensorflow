@@ -138,6 +138,22 @@ Dataset source: [Yann LeCun's MNIST Database](http://yann.lecun.com/exdb/mnist/)
 
 For text classification, I used the Emotions dataset to detect emotions in text data. An embedding layer was built following TensorFlow's [word embeddings guide](https://www.tensorflow.org/text/guide/word_embeddings).
 
+- Accuracy (Stratified KFold, 5 splits): **~87%**
+
+**Confusion Matrix:**
+
+<p align="center">
+  <img src="text_classification/confusion_matrix.png" alt="Confusion Matrix">
+</p>
+
+
+**Some Accurate Predictions:**
+
+<p align="center">
+  <img src="text_classification/some_accurate_prediction.png" alt="Confusion Matrix">
+</p>
+
+
 Dataset source: [Kaggle - Emotions Dataset for NLP](https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?select=val.txt)
 
 ---
