@@ -71,6 +71,7 @@ Although CNNs are typically more effective for image recognition tasks, I experi
 - Accuracy (Stratified KFold, 5 splits): **38-39%**
 
 **Model Architecture Visualization:**
+
 ![MLP Model](cifar_10/model.png)
 
 **Predictions with Confidence:**
