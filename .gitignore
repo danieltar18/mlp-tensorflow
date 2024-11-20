@@ -152,7 +152,7 @@ dmypy.json
 .pytype/
 
 # PNG and Rar
-/cifar_10/*.png
+/cifar_10/**/*.png
 *.7z
 
 # Cython debug symbols
