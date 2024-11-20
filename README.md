@@ -54,6 +54,7 @@ The optimal model architecture included 2 hidden layers with 32 and 16 neurons, 
 ![Boston Housing Features Visualization](boston_housing/scatter_plot_boston_housing_features.png)
 
 **Training Loss:**
+
 ![Training Loss](boston_housing/training_loss_boston.png)
 
 Dataset source: [Kaggle - Boston Housing](https://www.kaggle.com/c/boston-housing)
@@ -87,6 +88,7 @@ The Iris dataset was used to demonstrate low-level TensorFlow/Keras functionalit
 - Accuracy (Stratified KFold, 5 splits): **~100%**
 
 **Confusion Matrix:**
+
 ![Confusion Matrix](iris/confusion_matrix_iris.png)
 
 Dataset source: [UCI Machine Learning Repository - Iris](https://archive.ics.uci.edu/dataset/53/iris)
@@ -115,6 +117,7 @@ The MNIST dataset, a classic benchmark for image recognition tasks, was used to 
 ![Predictions](mnist/accurate_predictions_mnist.png)
 
 **Confusion Matrix:**
+
 ![Confusion Matrix](mnist/confusion_matrix_mnist.png)
 
 Dataset source: [Yann LeCun's MNIST Database](http://yann.lecun.com/exdb/mnist/)
