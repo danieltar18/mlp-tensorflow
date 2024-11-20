@@ -125,8 +125,6 @@ The MNIST dataset, a classic benchmark for image recognition tasks, was used to 
 
 **Confusion Matrix:**
 
-**Confusion Matrix:**
-
 <p align="center">
   <img src="mnist/confusion_matrix_mnist.png" alt="Confusion Matrix">
 </p>
