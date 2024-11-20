@@ -55,7 +55,9 @@ The optimal model architecture included 2 hidden layers with 32 and 16 neurons, 
 
 **Training Loss:**
 
-![Training Loss](boston_housing/training_loss_boston.png)
+<p align="center">
+  <img src="boston_housing/training_loss_boston.png" alt="Training Loss">
+</p>
 
 Dataset source: [Kaggle - Boston Housing](https://www.kaggle.com/c/boston-housing)
 
