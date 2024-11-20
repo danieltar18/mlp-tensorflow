@@ -55,7 +55,9 @@ The optimal model architecture included 2 hidden layers with 32 and 16 neurons, 
 
 **Training Loss:**
 
-![Training Loss](boston_housing/training_loss_boston.png)
+<p align="center">
+  <img src="boston_housing/training_loss_boston.png" alt="Training Loss">
+</p>
 
 Dataset source: [Kaggle - Boston Housing](https://www.kaggle.com/c/boston-housing)
 
@@ -72,7 +74,9 @@ Although CNNs are typically more effective for image recognition tasks, I experi
 
 **Model Architecture Visualization:**
 
-![MLP Model](cifar_10/model.png)
+<p align="center">
+  <img src="cifar_10/model.png" alt="MLP Model">
+</p>
 
 **Predictions with Confidence:**
 ![Predictions](cifar_10/predictions_cifar.png)
@@ -90,7 +94,9 @@ The Iris dataset was used to demonstrate low-level TensorFlow/Keras functionalit
 
 **Confusion Matrix:**
 
-![Confusion Matrix](iris/confusion_matrix_iris.png)
+<p align="center">
+  <img src="iris/confusion_matrix_iris.png" alt="Confusion Matrix">
+</p>
 
 Dataset source: [UCI Machine Learning Repository - Iris](https://archive.ics.uci.edu/dataset/53/iris)
 
@@ -119,7 +125,10 @@ The MNIST dataset, a classic benchmark for image recognition tasks, was used to 
 
 **Confusion Matrix:**
 
-![Confusion Matrix](mnist/confusion_matrix_mnist.png)
+<p align="center">
+  <img src="mnist/confusion_matrix_mnist.png" alt="Confusion Matrix">
+</p>
+
 
 Dataset source: [Yann LeCun's MNIST Database](http://yann.lecun.com/exdb/mnist/)
 
